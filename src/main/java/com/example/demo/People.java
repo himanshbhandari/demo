@@ -2,5 +2,7 @@ package com.example.demo;
 
 public class People {
     String name;
-    String age;
+    String minAge;
+    String maxAge;
+    String State;
 }
